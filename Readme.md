@@ -14,13 +14,13 @@ The twitter data is collected by XiaHu for their paper titled "Hu, Xia, et al. "
 
 # Files
 
-dbn_spammer_detect.m 
-dbn_test_features.m
-dbn_train_features.m
-feature_extraction.m
-porterStemmer.m - stemming code (collected)
-rbm_train_features.mat - trained features
-vocab.mat - Vocabulary
+* dbn_spammer_detect.m 
+* dbn_test_features.m
+* dbn_train_features.m
+* feature_extraction.m
+* porterStemmer.m - stemming code (collected)
+* rbm_train_features.mat - trained features
+* 	vocab.mat - Vocabulary
 
 
 
